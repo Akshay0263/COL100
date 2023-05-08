@@ -1,0 +1,13 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=float(input())
+x1=float(input())
+x2=float(input())
+x,a,f=x1,0.0,0.0
+while(x!=x2):
+    f=a**(x**b)+c*((1+x**d)**(1/d))
+    a+=e*f
+    x+=e
+print(a)
