@@ -6,7 +6,7 @@ def reverse_k_row(A, k):
         return A
     else: return A
 
-# sample code to test your implementation
+""" # sample code to test your implementation
 print(reverse_k_row([[1, 2], [3, 4]], 2)) # should print [[1, 2], [4, 3]]
 print(reverse_k_row([[1, 2], [3, 4]], 1)) # should print [[2, 1], [4, 3]]
-print(reverse_k_row([[1, 2], [3, 4]], 10)) # should print [[1, 2], [3, 4]]
+print(reverse_k_row([[1, 2], [3, 4]], 10)) # should print [[1, 2], [3, 4]] """
