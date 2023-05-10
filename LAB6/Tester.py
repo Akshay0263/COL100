@@ -1,3 +1,3 @@
-ls = [[0]*26]
-#for i in range(4,-1,-1):
-print(ls)
+(a,b) = (x.strip().strip("\"") for x in input().split(","))
+
+print(a," lol ",b)
