@@ -1,3 +1,3 @@
-(a,b) = (x.strip().strip("\"") for x in input().split(","))
-
-print(a," lol ",b)
+ls = [[1]*5]*5
+    #    stri += str(n-i+abs(j))
+print(ls)

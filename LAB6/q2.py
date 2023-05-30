@@ -10,4 +10,4 @@ def is_symmetric(A):
         return True
     else: return False
 
-print(is_symmetric([[1,2,3],[4,5,6]]))
+
